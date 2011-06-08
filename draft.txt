@@ -1,0 +1,83 @@
+Some questions to ponder:
+
+What will be the single selling point of the paper? Scripting? It
+is not new anymore!
+
+No, I was thinking in syntax and semantics of gscript + interoperability
+What point exactly you want to make on syntax and semantics part?
+Interoperability seems useful.
+
+Present in detail the syntax of gscript (specification) and the
+formalization (in this point we we'll need to work because I think
+pi calculus is a good idea and it make the work serious)
+
+We can work on the code to improve the todo list we discussed once.
+
+Do we have a compelling use-case?
+
+I'm working on a alzheimer workflow, maybe we can use it, or do you
+suggest something else?  How big is the workflow? The data? Do we
+have all data needed for a scaled up run? Is the workflow running
+well at the moment? If yes could you point me to a svn or place
+from where I can try on my own environment?
+
+The workflow is not huge but it is very scalable in terms of data
+because it uses a lot of examples of the adni project. An small
+paper is in progress to show the execution on EGI, if that paper
+is accepted we can use the workflow to try to reproduce the results,
+showing the interoperability point. Moreover, adni is an open
+database so data access wont be a problem. However we need the
+agreement of asclepios for reusing some tools involved in the
+workflow.
+
+In fact, the workflow will be used as use case of another paper to
+close the neurolog project (is that a problem?). I can send the
+beanshell version and the description (description is part of my
+thesis it will be used in the paper of EGI deployment).
+
+
+What infrastructure we are targetting for producing results? EGI?
+
+
+EGI sounds good and ideally if you have access to other grid we can
+try to address both.  I have access to Teragrid + Open Science Grid.
+We will need to build interface to them though which would be a
+good work to report on paper and will add to interoperability.
+
+
+if you have access to them we can adapt the execution of jgasw on
+that, it should not take very long, specially if we use saga spec
+to implement it... again I can adapt/refactor my code...
+
+
+    This is going in good direction. Lets keep on building the
+    discussion.  At some point I will distill the useful points and
+    see where we go. I suggest we do not involve Johan at this
+    moment as it is still not very mature work.  Once we really
+    have things concrete, we can see what is his reaction.
+
+    Yes I agree, I still remember last time when he told me it is
+    not my work and I have other priorities :P Once the idea is
+    mature we can propose the outline
+
+
+
+    Ketan
+
+    On 5/25/11 6:14 AM, Javier ROJAS BALDERRAMA wrote: Ketan,
+
+    Well I suppose you were busy with baby-related stuff, and now
+    your are going to work. So lets try to have the meeting other
+    day. If you prefer you can send me the thoughts about the paper,
+    I will do the same
+
+    see you, Javier
+
+    On 05/24/2011 05:06 PM, ketan wrote: Shall we talk by Skype
+    tomorrow Wednesday 6AM (Chicago time) 1PM Sophia Antipolis time.
+
+    We can discuss the paper structure and contents.
+
+    Which Journal are you planning to Target?
+
+
