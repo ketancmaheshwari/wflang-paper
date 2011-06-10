@@ -3,6 +3,11 @@ Some questions to ponder:
 What will be the single selling point of the paper? Scripting? It
 is not new anymore!
 
+======
+Expressible Workflows for Jungle Computing
+======
+
+
 No, I was thinking in syntax and semantics of gscript + interoperability
 What point exactly you want to make on syntax and semantics part?
 Interoperability seems useful.
